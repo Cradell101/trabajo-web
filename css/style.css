@@ -116,7 +116,30 @@ color: black;
 .carrito{
   margin-top: 10rem;
 }
+.titulo_carrito{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+
+.img_guante{
+  width: 10rem;
+  height: 10rem;
+}
+.img_tijera{
+  width: 10rem;
+  height: 10rem;
+}
+.img_pack{
+  width: 10rem;
+  height: 10rem;
+}
+.img_manguera{
+  width: 10rem;
+  height: 10rem;
+}
 /*---mi pedido seccion--*/
 
 
