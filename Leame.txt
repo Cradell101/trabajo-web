@@ -1,1 +1,7 @@
-Hola
+¡Hola Profesor! Este equipo esta compuesto por los integrantes Tomas Olivares y Daniel Belmar. El codigo fuente y todos los archivos anexos se encuentran en el link de Github https://github.com/Cradell101/trabajo-web en el Branch:
+https://github.com/Cradell101/trabajo-web/tree/Evaluacion2Final
+
+Esta Branch contiene todos los archivos que fuimos creando durante el proceso de desarrollo del sitio. Por lo que algunos de ellos no son funcionales. Sin embargo, todos los archivos que actualmente funcionan en el sitio Web, se cargan a partir de los clicks generados desde el documento indexV3.html 
+
+De esta forma usted tiene acceso tanto al estado actual del proyecto como al registro del trabajo que se ha realizado. 
+
